@@ -1,0 +1,30 @@
+p {
+ color: #ff0000;
+ background-color: #0000ff;
+}
+h1{
+  background-color: #80CBB3;
+}
+#specialid{
+  color: #00FF00;
+}
+.specialp{
+  color: #00FF00;
+  background-color: #FFFFFF;
+}
+a {
+ color: #ff0000;
+}
+a:visited {
+ color: #00ff00;
+}
+a:hover {
+ color: #ffff00;
+}
+#divexample{
+  color: #0000FF;
+  background-color: #FFFF00;
+}
+.spanstyle{
+  color: #00FF00;
+}
