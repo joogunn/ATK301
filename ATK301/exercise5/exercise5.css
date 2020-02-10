@@ -1,0 +1,39 @@
+h1{
+  color: #FFFFFF;
+  background-color: #C574CC;
+}
+main{
+  background-color: #C574CC;
+}
+h2{
+  color: #2517E2
+}
+.spanstyle{
+  color: #00FF00;
+}
+h3{
+  background-color: #ffff00;
+
+}
+#specialid{
+  color: #ff0000;
+
+}
+a:link{
+  color: #ff0000;
+  text-decoration: none;
+}
+a:hover{
+  color: #ffff00;
+  text-decoration: underline
+}
+h4{
+  color: #DDF42E;
+  background-color: #0F6022;
+}
+#greenbackgroundid{
+  background-color: #5AF67E
+}
+h5{
+  color: #810381
+}
