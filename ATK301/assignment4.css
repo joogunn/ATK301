@@ -1,0 +1,38 @@
+.customtext{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+
+
+}
+h1,h2,h3{
+  color: #E38D2A;
+  font-style: italic;
+  font-weight: normal
+}
+.fontcombined{
+  font: bold 20px Arial, Helvetica, sans-serif;
+}
+body{
+  background-color:#cccccc;
+  background-image: url(assignment2/ISULOGO.png);
+}
+main{
+  background-color: #000fff;
+}
+.boxmodel{
+  border: 2px solid #0D0801;
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+}
+.textcenter{
+  text-align: center;
+}
+.textjustify{
+  text-align: justify;
+}
+.imgbox{
+  border: 5px solid #0D0801;
+  padding: 10px;
+  background-color: #ffffff;
+  background-position: center center;
+}
