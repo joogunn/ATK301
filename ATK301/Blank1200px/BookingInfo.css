@@ -1,0 +1,60 @@
+body{
+
+background-image: url(alexojomo.png);
+
+}
+#wrapper{
+  margin: 24px auto;
+  width: 1200px;
+
+  padding: 24px;
+
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
+  grid-column-gap: 24px;
+}
+header{
+  grid-column: span 12;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  padding-left: 24px;
+  margin-bottom: 24px;
+}
+nav{
+  grid-column: span 4;
+}
+nav li{
+  width: 200px;
+  display: inline-block;
+}
+nav ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav li a{
+  display: block;
+
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+  text-transtorm: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 24px;
+}
+section{
+  grid-column: span 4;
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+  color: white;
+}
+footer{
+  grid-column: span 12;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
