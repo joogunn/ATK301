@@ -21,6 +21,7 @@ header{
   text-transform: uppercase;
   padding-left: 24px;
   margin-bottom: 24px;
+  text-shadow: 5px 5px 5px #000;
 }
 nav{
   grid-column: span 4;
@@ -28,6 +29,9 @@ nav{
 nav li{
   width: 200px;
   display: inline-block;
+}
+nav li a:hover{
+  background-color: black;
 }
 nav ul{
   list-style: none;
@@ -44,6 +48,7 @@ nav li a{
   font-weight: bold;
   text-decoration: none;
   padding: 24px;
+  transition: background-color .5s; 
 }
 
   footer{
